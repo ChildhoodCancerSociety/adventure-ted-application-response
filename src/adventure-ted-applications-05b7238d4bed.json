@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "adventure-ted-applications",
+  "private_key_id": "05b7238d4bedaa8d30fc83af19122f62a331308f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIPqFLTVcNG/U5\nHA5zavMQ76an1+vBoyrnf8ZEtH/AE7n24M4j8PdKKn+STqI7bwx10/nxlyuLeTtY\njPSAGfNUKoTGy14YcJReAMwFLEMqD3yvMR1RGIKiC1k5w2zaPF1AuZuN0ovFVvF4\nbRLvkg/4Lhu4rHMA+e3SdWRJ+4dowmP42sYB4/lfXCe36ZLIEgLAscCIXhMfTQ8Y\nsTNqq4MS5QgWTNpZ+H39AW3r3nKbW79gWdxTb/qSXg3NHQ8DjufwxuY7lrQ+Xxeg\npfYTzsxMCntjuY47mRdITApU4xi/p65oB5gjBx+X45udcZoMh2qKn5GWZxVsXgu4\nxddawSVfAgMBAAECggEAA/sYGNm9W6AXqVO4mDlWRsWVbD9R6R7W01CMXvhbpc32\nDmenKw/hwh861RbnxQNf8wodk5hsF2Qzh6EQ788DMfdabMoanRyRcS/nRNJB+jrQ\nuOB8WXM9W3XfOrFY46NiG75ueSqS1jtr6rMJet3nwiscOZKjiy+f+7qCHbHfJok8\nKs38TLhB+XZsU7Sk2S48dCeC3lXk1uljHL2QjwQb+kyC3//2W/ZsF7CtscRqB56H\n8khJSldN4YFMPpimcKIPXhNHsf5x6U1ftTfv9bqlu7DhumivJby9uTTxkeXY2FSr\ngKPRwPjtOPSvJ1mqExe9sRbzQ9cfXm169TNIE9bbMQKBgQDtqg2j+lxft0lc4uhF\nEhzIRt9qbNZwq4VflLFabm8MsbgsIQQu6Z4+kQTdcJEV8HNzQ0VAN5DQMs0tOFuF\nyzZ2pHHQVYxbya2RQzL52HKXhKgzgTzpcG48VmxvYzw/MIdGpFjSBpnclnoIqBO9\n2Qh7tYfA6hfnZHqJUyl02NPUZwKBgQDXsYbtIHP1fD5Zf2TGliLcFYOQzzvSFI5K\n9AkuWCCuE4f7s8D0pxJwha4W4oDlMftxMfRTSM2vzRfw783KM9vk5ja9fWbVDcgU\ndHFTbyCUNNbBlfVPZRs3QLs08criWmRvySkVXRG5hmo/LnnjSIELg4362tB34ae9\ncib8i31MSQKBgDNePwaDNXYGsped/5/2MzxifSWOkqbVm8U16UNnfR8cRndbR4Ew\nQ2C4jXmjO+inCP0PvCcOG4G0iT5N4RJBAuuPzX2/D9BC/f3YrWrtCo+PP5+qPlUi\nVOE7uMI2i64IuiRdn0j93kGcUJIQafvtrfS3Hrlmn3YG9Kk7zUkRGG/fAoGBAMJ3\nJU3/l2y5ssEgEWzWCeHhZ7gUjzuOGuhK80gcXoJzy4NMgmhRhVd7vwSU/F8n3Con\nPsAkAIZC5BXvLtviO5w5Txsyx5bJER4YCeCObZIRvZnVqNEHOC1tqBtI8IF5u9np\nRKglPAjHvlzueyhGw0ntNwH3bELZaVFtbOb+oF45AoGAPjQ7SrCIL1MY54wIk4N4\nulYLoXGcG76fGBHhRyLNE9kHJvkQOisQKyKRuNzYrkmnEEiuoLh8k6GDmDRcTEvm\nnPzijDs5Yv8mvRSh1L3RV8dZWaRBGEMA1l0wSbyqYzHnRUpWDNrh0JYjF2IxqKTW\n2RckbFXdVRg4+Y4ddhKUiXs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "adventure-ted@adventure-ted-applications.iam.gserviceaccount.com",
+  "client_id": "111688504279637030238",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/adventure-ted%40adventure-ted-applications.iam.gserviceaccount.com"
+}
