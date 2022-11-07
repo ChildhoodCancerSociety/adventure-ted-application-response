@@ -22,5 +22,13 @@
   "bugs": {
     "url": "https://github.com/ChildhoodCancerSociety/adventure-ted-application-response/issues"
   },
-  "homepage": "https://github.com/ChildhoodCancerSociety/adventure-ted-application-response#readme"
+  "homepage": "https://github.com/ChildhoodCancerSociety/adventure-ted-application-response#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "googleapis": "^109.0.1"
+  }
 }
