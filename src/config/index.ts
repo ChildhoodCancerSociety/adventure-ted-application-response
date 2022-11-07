@@ -1,4 +1,0 @@
-import * as config from "./config";
-import logger from "./logger";
-
-export { config, logger };
