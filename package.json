@@ -1,0 +1,26 @@
+{
+  "name": "adventure-ted-application-response",
+  "version": "1.0.0",
+  "description": "A simple script that handles submissions to the Adventure Ted Program application form and autoresponds to the applicant with a copy of their application inputs and a c2a",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChildhoodCancerSociety/adventure-ted-application-response.git"
+  },
+  "keywords": [
+    "google-forms-api",
+    "gmail-api",
+    "google-workspace",
+    "node",
+    "typescript"
+  ],
+  "author": "Ibrahim Saberi <georgeipsum@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChildhoodCancerSociety/adventure-ted-application-response/issues"
+  },
+  "homepage": "https://github.com/ChildhoodCancerSociety/adventure-ted-application-response#readme"
+}
